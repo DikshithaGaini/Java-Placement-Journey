@@ -7,7 +7,7 @@ This repository documents my Java learning journey as I prepare for software eng
 ## 📅 Progress
 
 ### Java
-- [C] Day 1 - Java Basics
+- [ ] Day 1 - Java Basics
 - [ ] Day 2 - Operators & Decision Making
 - [ ] Day 3 - Loops
 - [ ] Day 4 - Methods
