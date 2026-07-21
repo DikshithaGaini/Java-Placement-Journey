@@ -11,7 +11,7 @@ This repository documents my Java learning journey as I prepare for software eng
 - [x] Day 2 - Operators & Decision Making
 - [x] Day 3 - Loops
 - [x] Day 4 - Methods
-- [ ] Day 5 - Arrays
+- [x] Day 5 - Arrays
 - [ ] Day 6 - Strings
 
 ### Git & GitHub
