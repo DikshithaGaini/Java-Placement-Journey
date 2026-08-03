@@ -12,7 +12,7 @@ This repository documents my Java learning journey as I prepare for software eng
 - [x] Day 3 - Loops
 - [x] Day 4 - Methods
 - [x] Day 5 - Arrays
-- [ ] Day 6 - Strings
+- [x] Day 6 - Strings
 
 ### Git & GitHub
 - [x] Git Installed
